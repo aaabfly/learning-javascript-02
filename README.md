@@ -63,6 +63,7 @@ FizzBuzz
 ### 問題文
 
 引用元: 【タイトルとリンクを書く】
+数当てゲーム [練習問題 - プログラミングスレまとめ in VIP](http://vipprog.net/wiki/exercise.html#i5e3e061)
 
 【ここに問題を書き写す】
 
