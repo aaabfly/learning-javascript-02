@@ -17,10 +17,6 @@ function olympic() {
 function hiragana2Word() {
     //3040-3093までのひらがなに対応するunicodeの番号をランダムにだす
     const random = Math.floor(Math.random() * (3093 - 3041) + 3041);
-    outoput_word = function () {
-        var hiragana = String.fromCharCode(random);
-        console.log(hiragana);
-    }
-    outoput_word();
-    outoput_word();
+    var hiragana = String.fromCharCode(random);
+    console.log(hiragana + hiragana);
 }
